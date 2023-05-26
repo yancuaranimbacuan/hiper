@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   
+  intl: 
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -85,10 +86,12 @@ flutter:
     - assets/cal.png
     - assets/salir.png
     - assets/mus.png
+    - assets/splahs.png
     - assets/radio.jpeg
     - assets/cargas.png
     - assets/lin1.jpeg
     - assets/lin2.jpeg
+    - assets/mus.gif
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
